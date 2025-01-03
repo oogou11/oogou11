@@ -1,5 +1,5 @@
 <p align="center">
-  <h1> Welcome traveler, you've made it to my Tech Community Heaven.</h1>
+  <h1> Welcome traveler, This is my Tech Community Heaven</h1>
 </p>
 
 My name is **Hang**, but I go mostly by **Justin**. I am a passionate **AI engineer**,  with a strong focus on **microservices architecture**, **cloud-native architecture**, and **databases**.   
