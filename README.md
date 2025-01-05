@@ -17,7 +17,7 @@ I respond within an hour, unless I'm asleep or distracted by code or a game.
 ![numpy](numpy.png)  
 ![pandas](pandas.png)  
 ![pytorch](pytorch.png)  
-![BentoML](bentoml.png)  
+![BentoML](BentoML.png)  
 ![Langchain](langchain.png)  
 ![vLLM](vllm.png)  
 ![SpringCloud Alibaba](springcloud_alibaba.png)  
