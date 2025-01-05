@@ -15,17 +15,19 @@ I respond within an hour, unless I'm asleep or distracted by code or a game.
   <h1>The Tools I Love</h1>
 </div>
 
-<div style="width:10%; height:auto;">
+<div style="width:50%; height:auto;">
   <img src="./numpy.png" alt="numpy" width="200"/>
   <img src="./pandas.png" alt="pandas" width="200"/> 
   <img src="./pytorch.png" alt="pytorch" width="200"/>
   <img src="./spring.png" alt="spring" width="200"/>
+</div>
+<div style="width:50%; height:auto;">
   <img src="./k8s.png" alt="k8s" width="200"/>
   <img src="./milvus.png" alt="milvus" width="200"/>
   <img src="./nebula.png" alt="nebula" width="200"/>
   <img src="./langchain.png" alt="langchain" width="200"/>
 </div> 
-<div> 
+<div style="width:50%; height:auto;"> 
   <img src="./vllm.png" alt="vllm" width="200"/> 
   <img src="./mysql.png" alt="mysql" width="200"/>
   <img src="./BentoML.png" alt="BentoML" width="200"/>
