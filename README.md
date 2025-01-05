@@ -1,6 +1,7 @@
-<p align="center">
+
+<div align="center">
   <h1> Welcome traveler, This is my Tech Community Heaven</h1>
-</p>
+</div>
 
 My name is **Hang**, but I go mostly by **Justin**. I am a passionate **AI engineer**,  with a strong focus on **microservices architecture**,  
 **cloud-native architecture**, and **databases**. These are also the topics of my past Master's research.  
@@ -10,18 +11,22 @@ I respond within an hour, unless I'm asleep or distracted by code or a game.
 
 ---
 
-<p align="center">
-  <h1>The tools I love:</h1>
-</p>  
+<div align="center">
+  <h1>The Tools I Love</h1>
+</div>
 
-![numpy](numpy.png)  
-![pandas](pandas.png)  
-![pytorch](pytorch.png)  
-![BentoML](BentoML.png)  
-![Langchain](langchain.png)  
-![vLLM](vllm.png)  
-![SpringCloud Alibaba](springcloud_alibaba.png)  
-![K8S](k8s.png)  
-![MySQL](mysql.png)  
-![Milvus](milvus.png)  
-![Nebula](nebula.png)
+<div style="width:10%; height:auto;">
+  <img src="./numpy.png" alt="numpy" width="200"/>
+  <img src="./pandas.png" alt="pandas" width="200"/> 
+  <img src="./pytorch.png" alt="pytorch" width="200"/>
+  <img src="./spring.png" alt="spring" width="200"/>
+  <img src="./k8s.png" alt="k8s" width="200"/>
+  <img src="./milvus.png" alt="milvus" width="200"/>
+  <img src="./nebula.png" alt="nebula" width="200"/>
+  <img src="./langchain.png" alt="langchain" width="200"/>
+</div> 
+<div> 
+  <img src="./vllm.png" alt="vllm" width="200"/> 
+  <img src="./mysql.png" alt="mysql" width="200"/>
+  <img src="./BentoML.png" alt="BentoML" width="200"/>
+</div>
