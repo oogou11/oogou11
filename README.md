@@ -31,4 +31,5 @@ I respond within an hour, unless I'm asleep or distracted by code or a game.
   <img src="./vllm.png" alt="vllm" width="200"/> 
   <img src="./mysql.png" alt="mysql" width="200"/>
   <img src="./BentoML.png" alt="BentoML" width="200"/>
+  <img src="./dify.png" alt="Dify.AI" width="200"/>
 </div>
