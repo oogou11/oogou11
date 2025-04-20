@@ -6,7 +6,7 @@
 My name is **Hang**, but I go mostly by **Justin**. I am a passionate **AI engineer**,  with a strong focus on **microservices architecture**,  
 **cloud-native architecture**, and **databases**. These are also the topics of my past Master's research.  
 
-Feel free to send me a message to [zhangxing11@aliyun.com](mailto:zhangxing11@aliyun.com)  
+Feel free to send me a message to XXXX
 I respond within an hour, unless I'm asleep or distracted by code or a game.
 
 ---
