@@ -25,10 +25,9 @@ I respond within an hour, unless I'm asleep or distracted by code or a game.
 </div>
 <div style="width:50%; height:auto;">
   <img src="./k8s.png" alt="k8s" width="200"/>
-  <img src="./milvus.png" alt="milvus" width="200"/> 
-</div> 
-<div style="width:50%; height:auto;"> 
-  <img src="./vllm.png" alt="vllm" width="200"/> 
-  <img src="./mysql.png" alt="mysql.png" width="200"/>  
-  <img src="./hermes-agent.png" alt="hermes-agent" width="200"/> 
+  <img src="./milvus.png" alt="milvus" width="200"/>  
+  <img src="./vllm.png" alt="vllm" width="200"/>   
 </div>
+<div style="width:50%; height:auto;"> 
+  <img src="./hermes-agent.png" alt="hermes-agent"/>
+</div> 
